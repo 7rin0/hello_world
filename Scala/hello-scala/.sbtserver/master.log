@@ -222,3 +222,10 @@ Copy resource mappings:
 Total time: 0 s, completed 13 mars 2016 18:02:40
 > server-post-command-cleanup
 > server-handle-next-server-request
+Done executing sbt server engine, result Right(Exit(0))
+Closing listening server socket
+Waiting for socket thread
+Waiting for request processor thread
+Waiting for command engine result
+Returning control to sbt launcher with result Exit(0)
+Closing the 21694@lseverino-X75VC logs at Sun Mar 13 23:46:43 CET 2016, goodbye.
