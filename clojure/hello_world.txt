@@ -1,0 +1,7 @@
+1 - Download and unzip clojure
+2 - Run: java -cp clojure-1.8.0.jar clojure.main
+3 - REPL:
+
+user=> (+ 1 2 3)
+6
+user=> (javax.swing.JOptionPane/showMessageDialog nil "Hello World")
