@@ -10,6 +10,6 @@ Prepare execution file:
 - ld -s -o hello hello.o
 
 Run:
-./hello
+- ./hello
 
 Source: http://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm
